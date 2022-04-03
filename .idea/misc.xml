@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/home/Downloads/Android.NDK.Release.16.0.Win/splash_movie/app/src/main/res/layout/activity_baghi3.xml" value="0.25" />
+        <entry key="..\:/Users/home/Downloads/Android.NDK.Release.16.0.Win/splash_movie/app/src/main/res/layout/activity_based.xml" value="0.33" />
+        <entry key="..\:/Users/home/Downloads/Android.NDK.Release.16.0.Win/splash_movie/app/src/main/res/layout/activity_comedy.xml" value="0.33" />
+        <entry key="..\:/Users/home/Downloads/Android.NDK.Release.16.0.Win/splash_movie/app/src/main/res/layout/activity_entertainment.xml" value="0.33" />
+        <entry key="..\:/Users/home/Downloads/Android.NDK.Release.16.0.Win/splash_movie/app/src/main/res/layout/activity_fantasy.xml" value="0.33" />
+        <entry key="..\:/Users/home/Downloads/Android.NDK.Release.16.0.Win/splash_movie/app/src/main/res/layout/activity_india.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/home/Downloads/Android.NDK.Release.16.0.Win/splash_movie/app/src/main/res/layout/activity_kabir_singh.xml" value="0.33" />
+        <entry key="..\:/Users/home/Downloads/Android.NDK.Release.16.0.Win/splash_movie/app/src/main/res/layout/activity_korea.xml" value="0.33" />
+        <entry key="..\:/Users/home/Downloads/Android.NDK.Release.16.0.Win/splash_movie/app/src/main/res/layout/activity_lagaan.xml" value="0.33" />
+        <entry key="..\:/Users/home/Downloads/Android.NDK.Release.16.0.Win/splash_movie/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/home/Downloads/Android.NDK.Release.16.0.Win/splash_movie/app/src/main/res/layout/activity_main2.xml" value="0.39759036144578314" />
+        <entry key="..\:/Users/home/Downloads/Android.NDK.Release.16.0.Win/splash_movie/app/src/main/res/layout/activity_oscar.xml" value="0.33" />
+        <entry key="..\:/Users/home/Downloads/Android.NDK.Release.16.0.Win/splash_movie/app/src/main/res/layout/activity_scary.xml" value="0.33" />
+        <entry key="..\:/Users/home/Downloads/Android.NDK.Release.16.0.Win/splash_movie/app/src/main/res/layout/content_main.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
